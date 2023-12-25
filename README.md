@@ -107,4 +107,4 @@ docker stop $(docker ps -qa) && docker rm $(docker ps -qa) && docker rmi -f $(do
 
 # Автор:
    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-   Михаил Волков - greenpandorikvolkov@yandex.ru
+   Михаил Волков - green_panda@inbox.ru
